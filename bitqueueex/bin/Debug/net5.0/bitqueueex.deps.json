@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bitqueueex/1.0.0": {
+        "runtime": {
+          "bitqueueex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bitqueueex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

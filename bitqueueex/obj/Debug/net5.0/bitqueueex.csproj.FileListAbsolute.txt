@@ -1,0 +1,16 @@
+F:\DOTNET\bitqueueex\bitqueueex\bin\Debug\net5.0\bitqueueex.exe
+F:\DOTNET\bitqueueex\bitqueueex\bin\Debug\net5.0\bitqueueex.deps.json
+F:\DOTNET\bitqueueex\bitqueueex\bin\Debug\net5.0\bitqueueex.runtimeconfig.json
+F:\DOTNET\bitqueueex\bitqueueex\bin\Debug\net5.0\bitqueueex.runtimeconfig.dev.json
+F:\DOTNET\bitqueueex\bitqueueex\bin\Debug\net5.0\bitqueueex.dll
+F:\DOTNET\bitqueueex\bitqueueex\bin\Debug\net5.0\ref\bitqueueex.dll
+F:\DOTNET\bitqueueex\bitqueueex\bin\Debug\net5.0\bitqueueex.pdb
+F:\DOTNET\bitqueueex\bitqueueex\obj\Debug\net5.0\bitqueueex.csproj.AssemblyReference.cache
+F:\DOTNET\bitqueueex\bitqueueex\obj\Debug\net5.0\bitqueueex.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\bitqueueex\bitqueueex\obj\Debug\net5.0\bitqueueex.AssemblyInfoInputs.cache
+F:\DOTNET\bitqueueex\bitqueueex\obj\Debug\net5.0\bitqueueex.AssemblyInfo.cs
+F:\DOTNET\bitqueueex\bitqueueex\obj\Debug\net5.0\bitqueueex.csproj.CoreCompileInputs.cache
+F:\DOTNET\bitqueueex\bitqueueex\obj\Debug\net5.0\bitqueueex.dll
+F:\DOTNET\bitqueueex\bitqueueex\obj\Debug\net5.0\ref\bitqueueex.dll
+F:\DOTNET\bitqueueex\bitqueueex\obj\Debug\net5.0\bitqueueex.pdb
+F:\DOTNET\bitqueueex\bitqueueex\obj\Debug\net5.0\bitqueueex.genruntimeconfig.cache
